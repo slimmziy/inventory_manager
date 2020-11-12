@@ -1,0 +1,2 @@
+S:\Projects\Flutter\inventory_manager\build\windows\flutter\Debug\flutter_wrapper_plugin.pdb
+S:\Projects\Flutter\inventory_manager\build\windows\flutter\flutter_wrapper_plugin.dir\Debug\flutter_wrapper_plugin.pdb

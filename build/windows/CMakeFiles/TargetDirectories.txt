@@ -1,0 +1,10 @@
+S:/Projects/Flutter/inventory_manager/build/windows/CMakeFiles/INSTALL.dir
+S:/Projects/Flutter/inventory_manager/build/windows/CMakeFiles/ALL_BUILD.dir
+S:/Projects/Flutter/inventory_manager/build/windows/CMakeFiles/ZERO_CHECK.dir
+S:/Projects/Flutter/inventory_manager/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+S:/Projects/Flutter/inventory_manager/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+S:/Projects/Flutter/inventory_manager/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+S:/Projects/Flutter/inventory_manager/build/windows/flutter/CMakeFiles/INSTALL.dir
+S:/Projects/Flutter/inventory_manager/build/windows/runner/CMakeFiles/inventory_manager.dir
+S:/Projects/Flutter/inventory_manager/build/windows/runner/CMakeFiles/INSTALL.dir
+S:/Projects/Flutter/inventory_manager/build/windows/runner/CMakeFiles/ALL_BUILD.dir

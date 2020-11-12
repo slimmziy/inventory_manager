@@ -1,0 +1,9 @@
+S:/Projects/Flutter/inventory_manager/build/windows/runner/Debug/data/icudtl.dat
+S:/Projects/Flutter/inventory_manager/build/windows/runner/Debug/flutter_windows.dll
+S:/Projects/Flutter/inventory_manager/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+S:/Projects/Flutter/inventory_manager/build/windows/runner/Debug/data/flutter_assets/assets/images/logo.jpg
+S:/Projects/Flutter/inventory_manager/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+S:/Projects/Flutter/inventory_manager/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+S:/Projects/Flutter/inventory_manager/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+S:/Projects/Flutter/inventory_manager/build/windows/runner/Debug/data/flutter_assets/NOTICES
+S:/Projects/Flutter/inventory_manager/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

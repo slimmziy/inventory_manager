@@ -1,0 +1,10 @@
+^S:\PROJECTS\FLUTTER\INVENTORY_MANAGER\WINDOWS\RUNNER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SS:/Projects/Flutter/inventory_manager/windows -BS:/Projects/Flutter/inventory_manager/build/windows --check-stamp-file S:/Projects/Flutter/inventory_manager/build/windows/runner/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

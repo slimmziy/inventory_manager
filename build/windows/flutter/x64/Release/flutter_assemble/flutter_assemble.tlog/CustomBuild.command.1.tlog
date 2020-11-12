@@ -1,0 +1,28 @@
+^S:\PROJECTS\FLUTTER\INVENTORY_MANAGER\BUILD\WINDOWS\CMAKEFILES\7843562936236D69FD82EFBCF0CE61AB\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT="C:\src\flutter" PROJECT_DIR="S:\Projects\Flutter\inventory_manager" FLUTTER_ROOT="C:\src\flutter" FLUTTER_EPHEMERAL_DIR="S:\Projects\Flutter\inventory_manager\windows\flutter\ephemeral" PROJECT_DIR="S:\Projects\Flutter\inventory_manager" FLUTTER_TARGET="lib\main.dart" DART_OBFUSCATION="false" TRACK_WIDGET_CREATION="true" TREE_SHAKE_ICONS="true" PACKAGE_CONFIG=".packages" C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Release
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^S:\PROJECTS\FLUTTER\INVENTORY_MANAGER\BUILD\WINDOWS\CMAKEFILES\4B78CED4C8A167B89EE5585F4D2E9F1C\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^S:\PROJECTS\FLUTTER\INVENTORY_MANAGER\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SS:/Projects/Flutter/inventory_manager/windows -BS:/Projects/Flutter/inventory_manager/build/windows --check-stamp-file S:/Projects/Flutter/inventory_manager/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
